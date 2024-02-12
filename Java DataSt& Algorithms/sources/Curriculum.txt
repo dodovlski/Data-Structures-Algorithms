@@ -1,0 +1,12 @@
+Single Linked List
+Doubly Linked List
+Circular Linked List
+Arrays
+Stacks
+Queues
+Binary Tree
+Binary Heaps
+Graphs
+Matrix
+Tries
+Implementations
